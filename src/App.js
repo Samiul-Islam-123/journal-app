@@ -5,7 +5,7 @@ import Profile from './Pages/ProfilePage/Profile';
 function App() {
   return (
     <>
-     <Profile />
+     <h1>hello world this is a dev branch!</h1>
     </>
   );
 }
